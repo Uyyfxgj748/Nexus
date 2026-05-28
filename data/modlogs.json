@@ -1,0 +1,450 @@
+{
+  "120363407803823931@g.us": [],
+  "120363409711934168@g.us": [
+    {
+      "ts": 1777830543224,
+      "adminJid": "113276037935125@lid",
+      "accion": "kick",
+      "objetivoJid": "45445787160651@lid",
+      "extra": ""
+    }
+  ],
+  "120363396476889468@g.us": [
+    {
+      "ts": 1777854744372,
+      "adminJid": "251067312934996@lid",
+      "accion": "kick",
+      "objetivoJid": "124602017677540@lid",
+      "extra": ""
+    }
+  ],
+  "120363426185401970@g.us": [
+    {
+      "ts": 1779988423866,
+      "adminJid": "256379868680306@lid",
+      "accion": "unmutebot",
+      "objetivoJid": "94537229848743@lid",
+      "extra": ""
+    },
+    {
+      "ts": 1779988339576,
+      "adminJid": "256379868680306@lid",
+      "accion": "mutebot",
+      "objetivoJid": "94537229848743@lid",
+      "extra": ""
+    },
+    {
+      "ts": 1779764937017,
+      "adminJid": "256379868680306@lid",
+      "accion": "unmutebot",
+      "objetivoJid": "225512089759767@lid",
+      "extra": ""
+    },
+    {
+      "ts": 1779762379495,
+      "adminJid": "256379868680306@lid",
+      "accion": "mutebot",
+      "objetivoJid": "225512089759767@lid",
+      "extra": ""
+    },
+    {
+      "ts": 1779748235992,
+      "adminJid": "256379868680306@lid",
+      "accion": "unmutebot",
+      "objetivoJid": "58897406623850@lid",
+      "extra": ""
+    },
+    {
+      "ts": 1779747931985,
+      "adminJid": "256379868680306@lid",
+      "accion": "mutebot",
+      "objetivoJid": "58897406623850@lid",
+      "extra": ""
+    },
+    {
+      "ts": 1779742766817,
+      "adminJid": "256379868680306@lid",
+      "accion": "unmutebot",
+      "objetivoJid": "40751287291917@lid",
+      "extra": ""
+    },
+    {
+      "ts": 1779737467859,
+      "adminJid": "256379868680306@lid",
+      "accion": "mutebot",
+      "objetivoJid": "40751287291917@lid",
+      "extra": ""
+    },
+    {
+      "ts": 1779736449157,
+      "adminJid": "202207764951281@lid",
+      "accion": "tempban",
+      "objetivoJid": "27784898465966@lid",
+      "extra": "1m"
+    },
+    {
+      "ts": 1779677766417,
+      "adminJid": "256379868680306@lid",
+      "accion": "unmutebot",
+      "objetivoJid": "58897406623850@lid",
+      "extra": ""
+    },
+    {
+      "ts": 1779677718748,
+      "adminJid": "256379868680306@lid",
+      "accion": "mutebot",
+      "objetivoJid": "58897406623850@lid",
+      "extra": ""
+    },
+    {
+      "ts": 1779026070858,
+      "adminJid": "256379868680306@lid",
+      "accion": "unmutebot",
+      "objetivoJid": "40751287291917@lid",
+      "extra": ""
+    },
+    {
+      "ts": 1779024958354,
+      "adminJid": "256379868680306@lid",
+      "accion": "mutebot",
+      "objetivoJid": "40751287291917@lid",
+      "extra": ""
+    },
+    {
+      "ts": 1778878040406,
+      "adminJid": "256379868680306@lid",
+      "accion": "warn",
+      "objetivoJid": "40751287291917@lid",
+      "extra": " mandar stickers por**"
+    },
+    {
+      "ts": 1778877509863,
+      "adminJid": "202207764951281@lid",
+      "accion": "unmutebot",
+      "objetivoJid": "40751287291917@lid",
+      "extra": ""
+    },
+    {
+      "ts": 1778872067608,
+      "adminJid": "256379868680306@lid",
+      "accion": "mutebot",
+      "objetivoJid": "40751287291917@lid",
+      "extra": ""
+    },
+    {
+      "ts": 1778862231757,
+      "adminJid": "256379868680306@lid",
+      "accion": "unmutebot",
+      "objetivoJid": "110849532375115@lid",
+      "extra": ""
+    },
+    {
+      "ts": 1778862137248,
+      "adminJid": "256379868680306@lid",
+      "accion": "mutebot",
+      "objetivoJid": "110849532375115@lid",
+      "extra": ""
+    },
+    {
+      "ts": 1778857703312,
+      "adminJid": "256379868680306@lid",
+      "accion": "unmutebot",
+      "objetivoJid": "40751287291917@lid",
+      "extra": ""
+    },
+    {
+      "ts": 1778857508600,
+      "adminJid": "256379868680306@lid",
+      "accion": "mutebot",
+      "objetivoJid": "40751287291917@lid",
+      "extra": ""
+    },
+    {
+      "ts": 1778811562783,
+      "adminJid": "256379868680306@lid",
+      "accion": "mutebot",
+      "objetivoJid": "110849532375115@lid",
+      "extra": ""
+    },
+    {
+      "ts": 1778787776925,
+      "adminJid": "256379868680306@lid",
+      "accion": "unmutebot",
+      "objetivoJid": "110849532375115@lid",
+      "extra": ""
+    },
+    {
+      "ts": 1778787745271,
+      "adminJid": "256379868680306@lid",
+      "accion": "mutebot",
+      "objetivoJid": "110849532375115@lid",
+      "extra": ""
+    },
+    {
+      "ts": 1778641403729,
+      "adminJid": "256379868680306@lid",
+      "accion": "warn",
+      "objetivoJid": "225512089759767@lid",
+      "extra": " (mando por**)"
+    },
+    {
+      "ts": 1778600455147,
+      "adminJid": "256379868680306@lid",
+      "accion": "unmutebot",
+      "objetivoJid": "110849532375115@lid",
+      "extra": ""
+    },
+    {
+      "ts": 1778597788248,
+      "adminJid": "256379868680306@lid",
+      "accion": "mutebot",
+      "objetivoJid": "110849532375115@lid",
+      "extra": ""
+    },
+    {
+      "ts": 1778596006452,
+      "adminJid": "256379868680306@lid",
+      "accion": "unmutebot",
+      "objetivoJid": "110849532375115@lid",
+      "extra": ""
+    },
+    {
+      "ts": 1778595964818,
+      "adminJid": "256379868680306@lid",
+      "accion": "mutebot",
+      "objetivoJid": "110849532375115@lid",
+      "extra": ""
+    },
+    {
+      "ts": 1778551313280,
+      "adminJid": "94537229848743@lid",
+      "accion": "delwarn",
+      "objetivoJid": "236605906411604@lid",
+      "extra": ""
+    },
+    {
+      "ts": 1778551289119,
+      "adminJid": "256379868680306@lid",
+      "accion": "warn",
+      "objetivoJid": "236605906411604@lid",
+      "extra": " por decir groserías"
+    },
+    {
+      "ts": 1778551269434,
+      "adminJid": "94537229848743@lid",
+      "accion": "warn",
+      "objetivoJid": "236605906411604@lid",
+      "extra": "Sin razón especificada"
+    },
+    {
+      "ts": 1778550499506,
+      "adminJid": "256379868680306@lid",
+      "accion": "unmutebot",
+      "objetivoJid": "40751287291917@lid",
+      "extra": ""
+    },
+    {
+      "ts": 1778550438103,
+      "adminJid": "256379868680306@lid",
+      "accion": "mutebot",
+      "objetivoJid": "40751287291917@lid",
+      "extra": ""
+    },
+    {
+      "ts": 1778550354764,
+      "adminJid": "94537229848743@lid",
+      "accion": "unmutebot",
+      "objetivoJid": "40751287291917@lid",
+      "extra": ""
+    },
+    {
+      "ts": 1778550246123,
+      "adminJid": "94537229848743@lid",
+      "accion": "mutebot",
+      "objetivoJid": "40751287291917@lid",
+      "extra": ""
+    },
+    {
+      "ts": 1778550214088,
+      "adminJid": "256379868680306@lid",
+      "accion": "unmutebot",
+      "objetivoJid": "113246057009241@lid",
+      "extra": ""
+    },
+    {
+      "ts": 1778550171757,
+      "adminJid": "256379868680306@lid",
+      "accion": "mutebot",
+      "objetivoJid": "113246057009241@lid",
+      "extra": ""
+    },
+    {
+      "ts": 1778550171506,
+      "adminJid": "94537229848743@lid",
+      "accion": "unmutebot",
+      "objetivoJid": "40751287291917@lid",
+      "extra": ""
+    },
+    {
+      "ts": 1778550139843,
+      "adminJid": "94537229848743@lid",
+      "accion": "mutebot",
+      "objetivoJid": "40751287291917@lid",
+      "extra": ""
+    },
+    {
+      "ts": 1778549108779,
+      "adminJid": "94537229848743@lid",
+      "accion": "unmutebot",
+      "objetivoJid": "40751287291917@lid",
+      "extra": ""
+    },
+    {
+      "ts": 1778549065212,
+      "adminJid": "94537229848743@lid",
+      "accion": "mutebot",
+      "objetivoJid": "40751287291917@lid",
+      "extra": ""
+    },
+    {
+      "ts": 1778534962748,
+      "adminJid": "256379868680306@lid",
+      "accion": "warn",
+      "objetivoJid": "225512089759767@lid",
+      "extra": "razón( mandando stickers de nopor y etc)"
+    },
+    {
+      "ts": 1777935040048,
+      "adminJid": "202207764951281@lid",
+      "accion": "mutebot",
+      "objetivoJid": "94537229848743@lid",
+      "extra": ""
+    },
+    {
+      "ts": 1777935016593,
+      "adminJid": "202207764951281@lid",
+      "accion": "unmutebot",
+      "objetivoJid": "94537229848743@lid",
+      "extra": ""
+    },
+    {
+      "ts": 1777934992210,
+      "adminJid": "202207764951281@lid",
+      "accion": "mutebot",
+      "objetivoJid": "94537229848743@lid",
+      "extra": ""
+    }
+  ],
+  "120363409307297629@g.us": [
+    {
+      "ts": 1778028016269,
+      "adminJid": "110849532375115@lid",
+      "accion": "resetwarns",
+      "objetivoJid": "256392669700295@lid",
+      "extra": ""
+    },
+    {
+      "ts": 1778027911225,
+      "adminJid": "110849532375115@lid",
+      "accion": "warn",
+      "objetivoJid": "256392669700295@lid",
+      "extra": "Sin razón especificada"
+    },
+    {
+      "ts": 1778027787871,
+      "adminJid": "256392669700295@lid",
+      "accion": "unmutebot",
+      "objetivoJid": "110849532375115@lid",
+      "extra": ""
+    },
+    {
+      "ts": 1778027632002,
+      "adminJid": "256392669700295@lid",
+      "accion": "mutebot",
+      "objetivoJid": "110849532375115@lid",
+      "extra": ""
+    },
+    {
+      "ts": 1778027624774,
+      "adminJid": "110849532375115@lid",
+      "accion": "unmutebot",
+      "objetivoJid": "256392669700295@lid",
+      "extra": ""
+    },
+    {
+      "ts": 1778027506404,
+      "adminJid": "110849532375115@lid",
+      "accion": "mutebot",
+      "objetivoJid": "256392669700295@lid",
+      "extra": ""
+    },
+    {
+      "ts": 1778027432323,
+      "adminJid": "110849532375115@lid",
+      "accion": "tempban",
+      "objetivoJid": "111463729524989@lid",
+      "extra": "20m"
+    }
+  ],
+  "120363426136929030@g.us": [
+    {
+      "ts": 1778296542139,
+      "adminJid": "202207764951281@lid",
+      "accion": "kick",
+      "objetivoJid": "83121223520258@lid",
+      "extra": ""
+    }
+  ],
+  "120363426443157543@g.us": [],
+  "120363424838963525@g.us": [
+    {
+      "ts": 1779461529181,
+      "adminJid": "256379868680306@lid",
+      "accion": "resetwarns",
+      "objetivoJid": "113246057009241@lid",
+      "extra": ""
+    },
+    {
+      "ts": 1779461508667,
+      "adminJid": "256379868680306@lid",
+      "accion": "resetwarns",
+      "objetivoJid": "160134198214765@lid",
+      "extra": ""
+    },
+    {
+      "ts": 1778880499891,
+      "adminJid": "256379868680306@lid",
+      "accion": "warn",
+      "objetivoJid": "38225896845348@lid",
+      "extra": "usando el bot en el grupo h y no se puede"
+    },
+    {
+      "ts": 1778880439240,
+      "adminJid": "256379868680306@lid",
+      "accion": "mutebot",
+      "objetivoJid": "38225896845348@lid",
+      "extra": ""
+    },
+    {
+      "ts": 1778715620901,
+      "adminJid": "256379868680306@lid",
+      "accion": "mutebot",
+      "objetivoJid": "275771847393395@lid",
+      "extra": ""
+    },
+    {
+      "ts": 1778699396970,
+      "adminJid": "256379868680306@lid",
+      "accion": "unmutebot",
+      "objetivoJid": "40751287291917@lid",
+      "extra": ""
+    },
+    {
+      "ts": 1778699083245,
+      "adminJid": "256379868680306@lid",
+      "accion": "mutebot",
+      "objetivoJid": "40751287291917@lid",
+      "extra": ""
+    }
+  ]
+}

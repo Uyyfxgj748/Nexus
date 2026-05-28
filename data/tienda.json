@@ -1,0 +1,10 @@
+[
+  { "id": 1, "nombre": "Neko Blanca", "precio": 25000, "tipo": "personaje", "emoji": "🐱", "descripcion": "Neko mágica de rara aparición" },
+  { "id": 2, "nombre": "Neko Negra", "precio": 35000, "tipo": "personaje", "emoji": "🐈‍⬛", "descripcion": "Neko oscura y misteriosa" },
+  { "id": 3, "nombre": "Dragón Chibi", "precio": 60000, "tipo": "personaje", "emoji": "🐉", "descripcion": "Dragón adorable en versión mini" },
+  { "id": 4, "nombre": "Hada del Bosque", "precio": 45000, "tipo": "personaje", "emoji": "🧚", "descripcion": "Hada con poderes naturales" },
+  { "id": 5, "nombre": "Pack Stickers Kawaii", "precio": 15000, "tipo": "sticker", "emoji": "🎀", "descripcion": "Pack de stickers super kawaii" },
+  { "id": 6, "nombre": "Pack Stickers Anime", "precio": 20000, "tipo": "sticker", "emoji": "🎭", "descripcion": "Pack de stickers anime variados" },
+  { "id": 7, "nombre": "Espada Legendaria", "precio": 100000, "tipo": "objeto", "emoji": "⚔️", "descripcion": "Arma de alto poder" },
+  { "id": 8, "nombre": "Poción de Experiencia", "precio": 12000, "tipo": "objeto", "emoji": "🧪", "descripcion": "Duplica tu exp por 24h" }
+]

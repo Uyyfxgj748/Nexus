@@ -1,0 +1,71 @@
+{
+  "vagabundo": {
+    "nombre": "vagabundo",
+    "lider": "202207764951281@lid",
+    "miembros": [
+      "202207764951281@lid",
+      "124602017677540@lid"
+    ],
+    "xp": 400,
+    "nivel": 8,
+    "creado": 1776628476943,
+    "descripcion": "los más vagos",
+    "fotoUrl": "/home/runner/workspace/data/clan_fotos/vagabundo.jpg",
+    "oficiales": [],
+    "guerrasTotales": 4,
+    "banco": 100000,
+    "ultimaGuerra": 1779654595778,
+    "logBanco": [
+      {
+        "tipo": "dep",
+        "cantidad": 100000,
+        "quien": "...",
+        "fecha": 1779654669663
+      }
+    ]
+  },
+  "clan_gojo": {
+    "nombre": "clan gojo",
+    "lider": "256379868680306@lid",
+    "miembros": [
+      "256379868680306@lid",
+      "214125863038996@lid",
+      "9475318640844@lid",
+      "107361817653361@lid",
+      "110849532375115@lid",
+      "40751287291917@lid",
+      "93570828623913@lid",
+      "196881955192957@lid",
+      "36271669956849@lid"
+    ],
+    "xp": 11800,
+    "nivel": 20,
+    "descripcion": null,
+    "fotoUrl": "/home/runner/workspace/data/clan_fotos/clan_gojo.jpg",
+    "creado": 1777750611231,
+    "ultimaGuerra": 1779769001314,
+    "oficiales": [],
+    "guerrasTotales": 4,
+    "guerrasGanadas": 4,
+    "banco": 0
+  },
+  "[yoshi]": {
+    "nombre": "[yoshi]",
+    "lider": "90972088225918@lid",
+    "miembros": [
+      "90972088225918@lid",
+      "275771847393395@lid"
+    ],
+    "oficiales": [],
+    "xp": 0,
+    "nivel": 1,
+    "descripcion": null,
+    "fotoUrl": null,
+    "banco": 0,
+    "logBanco": [],
+    "ultimaGuerra": null,
+    "guerrasGanadas": 0,
+    "guerrasTotales": 0,
+    "creado": 1779654320381
+  }
+}

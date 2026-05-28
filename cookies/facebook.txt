@@ -1,0 +1,10 @@
+# Netscape HTTP Cookie File
+# Pega aquí tus cookies de Facebook en formato Netscape.
+# Cómo exportarlas:
+#   1. Instala la extensión "Get cookies.txt LOCALLY" en Chrome o Firefox
+#   2. Entra a facebook.com con tu cuenta
+#   3. Haz clic en la extensión y elige "Export" → selecciona facebook.com
+#   4. Reemplaza TODO el contenido de este archivo con lo que copiaste
+#
+# Las líneas de cookies tienen este formato (NO empieces con #):
+# .facebook.com  TRUE  /  TRUE  1234567890  nombre_cookie  valor_cookie

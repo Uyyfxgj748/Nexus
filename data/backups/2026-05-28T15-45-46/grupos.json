@@ -1,0 +1,884 @@
+{
+  "120363347917460184@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "¡Bienvenido/a @usuario al grupo!",
+    "despedida": false,
+    "mensajeDespedida": "Hasta luego @usuario 👋",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3
+  },
+  "120363426185401970@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "bienvenido !",
+    "despedida": false,
+    "mensajeDespedida": "bay bay",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3,
+    "antilink": false,
+    "encuesta": {
+      "pregunta": "q es mejor ?",
+      "opciones": [
+        "salchipapa",
+        "hamburguesa"
+      ],
+      "votos": {
+        "202207764951281@lid": 1
+      },
+      "autor": "202207764951281@lid",
+      "fecha": 1776629831450
+    },
+    "welcomeImagePath": "/home/runner/workspace/data/images/welcome_120363426185401970_g_us.jpg",
+    "goodbyeImagePath": "/home/runner/workspace/data/images/goodbye_120363426185401970_g_us.jpg",
+    "welcomeMedia": {
+      "tipo": "image",
+      "path": "/home/runner/workspace/data/images/welcome_120363426185401970_g_us.jpg"
+    },
+    "goodbyeMedia": {
+      "tipo": "image",
+      "path": "/home/runner/workspace/data/images/goodbye_120363426185401970_g_us.jpg"
+    },
+    "botActivo": true,
+    "mutedUsers": [],
+    "mutedExpiry": {},
+    "chatHabilitado": true,
+    "warns": {
+      "225512089759767@lid": 2,
+      "236605906411604@lid": 1,
+      "40751287291917@lid": 1
+    },
+    "eventosHabilitados": true,
+    "gachaOn": true,
+    "economyOn": true
+  },
+  "120363403232405912@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "¡Bienvenido/a @usuario al grupo!",
+    "despedida": false,
+    "mensajeDespedida": "Hasta luego @usuario 👋",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3
+  },
+  "202207764951281@lid": {
+    "bienvenida": false,
+    "mensajeBienvenida": "¡Bienvenido/a @usuario al grupo!",
+    "despedida": false,
+    "mensajeDespedida": "Hasta luego @usuario 👋",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3,
+    "nsfw": true,
+    "chatHabilitado": true
+  },
+  "120363405742101034@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "¡Bienvenido/a @usuario al grupo!",
+    "despedida": false,
+    "mensajeDespedida": "Hasta luego @usuario 👋",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3
+  },
+  "120363426342220001@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "¡Bienvenido/a @usuario al grupo!",
+    "despedida": false,
+    "mensajeDespedida": "Hasta luego @usuario 👋",
+    "soloAdmin": true,
+    "limiteAdvertencias": 3,
+    "economyOn": false,
+    "gachaOn": true,
+    "nsfw": true,
+    "botActivo": true
+  },
+  "120363407219717833@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "¡Bienvenido/a @usuario al grupo!",
+    "despedida": false,
+    "mensajeDespedida": "Hasta luego @usuario 👋",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3
+  },
+  "120363401240611140@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "¡Bienvenido/a @usuario al grupo!",
+    "despedida": false,
+    "mensajeDespedida": "Hasta luego @usuario 👋",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3,
+    "nsfw": true
+  },
+  "120363400550758592@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "¡Bienvenido/a @usuario al grupo!",
+    "despedida": false,
+    "mensajeDespedida": "Hasta luego @usuario 👋",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3
+  },
+  "120363425816334429@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "¡Bienvenido/a @usuario al grupo!",
+    "despedida": false,
+    "mensajeDespedida": "Hasta luego @usuario 👋",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3,
+    "nsfw": true
+  },
+  "120363401131071578@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "¡Bienvenido/a @usuario al grupo!",
+    "despedida": false,
+    "mensajeDespedida": "Hasta luego @usuario 👋",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3
+  },
+  "120363403880986205@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "¡Bienvenido/a @usuario al grupo!",
+    "despedida": false,
+    "mensajeDespedida": "Hasta luego @usuario 👋",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3,
+    "nsfw": true,
+    "botActivo": true
+  },
+  "120363402414757750@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "¡Bienvenido/a @usuario al grupo!",
+    "despedida": false,
+    "mensajeDespedida": "Hasta luego @usuario 👋",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3
+  },
+  "120363404653443295@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "¡Bienvenido/a @usuario al grupo!",
+    "despedida": false,
+    "mensajeDespedida": "Hasta luego @usuario 👋",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3
+  },
+  "120363426445293218@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "¡Bienvenido/a @usuario al grupo!",
+    "despedida": false,
+    "mensajeDespedida": "Hasta luego @usuario 👋",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3
+  },
+  "120363407803823931@g.us": {
+    "bienvenida": false,
+    "despedida": false,
+    "soloAdmin": false,
+    "limiteAdvertencias": 3,
+    "nsfw": false,
+    "botActivo": true,
+    "tagMode": "admins",
+    "mutedUsers": [],
+    "antilink": true,
+    "goodbyeMedia": {
+      "tipo": "image",
+      "path": "/home/runner/workspace/data/images/goodbye_120363407803823931_g_us.jpg"
+    },
+    "goodbyeImagePath": "/home/runner/workspace/data/images/goodbye_120363407803823931_g_us.jpg",
+    "welcomeMedia": {
+      "tipo": "image",
+      "path": "/home/runner/workspace/data/images/welcome_120363407803823931_g_us.jpg"
+    },
+    "welcomeImagePath": "/home/runner/workspace/data/images/welcome_120363407803823931_g_us.jpg",
+    "warns": {
+      "52098523742257@lid": 1,
+      "124602017677540@lid": 1,
+      "199978425270469@lid": 2,
+      "89425614786665@lid": 2,
+      "3041289838638@lid": 2
+    },
+    "chatHabilitado": true
+  },
+  "120363420710166334@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "¡Bienvenido/a @usuario al grupo!",
+    "despedida": false,
+    "mensajeDespedida": "Hasta luego @usuario 👋",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3
+  },
+  "120363427237882363@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "¡Bienvenido/a @usuario al grupo!",
+    "despedida": false,
+    "mensajeDespedida": "Hasta luego @usuario 👋",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3
+  },
+  "120363408166165084@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "¡Bienvenido/a @usuario al grupo!",
+    "despedida": false,
+    "mensajeDespedida": "Hasta luego @usuario 👋",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3,
+    "botActivo": false
+  },
+  "120363371190110094@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "¡Bienvenido/a @usuario al grupo!",
+    "despedida": false,
+    "mensajeDespedida": "Hasta luego @usuario 👋",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3
+  },
+  "120363427960207742@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "¡Bienvenido/a @usuario al grupo!",
+    "despedida": false,
+    "mensajeDespedida": "Hasta luego @usuario 👋",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3,
+    "botActivo": false
+  },
+  "120363408165488028@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "¡Bienvenido/a @usuario al grupo!",
+    "despedida": false,
+    "mensajeDespedida": "Hasta luego @usuario 👋",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3,
+    "botActivo": false
+  },
+  "120363407925184542@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "¡Bienvenido/a @usuario al grupo!",
+    "despedida": false,
+    "mensajeDespedida": "Hasta luego @usuario 👋",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3,
+    "botActivo": true,
+    "nsfw": false
+  },
+  "120363425257249855@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "¡Bienvenido/a @usuario al grupo!",
+    "despedida": false,
+    "mensajeDespedida": "Hasta luego @usuario 👋",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3
+  },
+  "120363411068096393@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "¡Bienvenido/a @usuario al grupo!",
+    "despedida": false,
+    "mensajeDespedida": "Hasta luego @usuario 👋",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3,
+    "botActivo": true
+  },
+  "120363426944327369@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "¡Bienvenido/a @usuario al grupo!",
+    "despedida": false,
+    "mensajeDespedida": "Hasta luego @usuario 👋",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3,
+    "botActivo": false,
+    "nsfw": false
+  },
+  "120363424645674952@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "¡Bienvenido/a @usuario al grupo!",
+    "despedida": false,
+    "mensajeDespedida": "Hasta luego @usuario 👋",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3
+  },
+  "120363406148642794@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "¡Bienvenido/a @usuario al grupo!",
+    "despedida": false,
+    "mensajeDespedida": "Hasta luego @usuario 👋",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3
+  },
+  "test@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "¡Bienvenido/a @usuario al grupo!",
+    "despedida": false,
+    "mensajeDespedida": "Hasta luego @usuario 👋",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3
+  },
+  "120363425542872495@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "¡Bienvenido/a @usuario al grupo!",
+    "despedida": false,
+    "mensajeDespedida": "Hasta luego @usuario 👋",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3,
+    "botActivo": false
+  },
+  "120363426483043662@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n🎯 ¿Qué puedes hacer?\n• Juegos y diversión 🎮\n• Comandos útiles 🛠️\n• Interacción con otros 👥\n• Y varias sorpresas más ✨\n\n💡 Consejo rápido:\nEscribe #menu y explora todo lo que tengo para ti\n\n🔥 Tip:\nMientras más uses los comandos,\nmás cosas irás descubriendo 👀\n\n✨ Relájate, explora y disfruta\neste pequeño rincón digital\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\nSoy Nexus ⚡ y espero haberte ayudado\no al menos haberte hecho pasar\nun buen rato 😄\n\n🎯 Antes de irte:\n• Guarda tus comandos favoritos ⭐\n• Invita a otros a usar el bot 👥\n• Y vuelve cuando quieras 🔄\n\n💡 Recuerda:\nSiempre habrá algo nuevo por descubrir\ncada vez que regreses 👀\n\n🔥 Dato:\nEl bot sigue activo… incluso cuando tú no estás 😏\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3
+  },
+  "120363408609592389@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n🎯 ¿Qué puedes hacer?\n• Juegos y diversión 🎮\n• Comandos útiles 🛠️\n• Interacción con otros 👥\n• Y varias sorpresas más ✨\n\n💡 Consejo rápido:\nEscribe #menu y explora todo lo que tengo para ti\n\n🔥 Tip:\nMientras más uses los comandos,\nmás cosas irás descubriendo 👀\n\n✨ Relájate, explora y disfruta\neste pequeño rincón digital\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\nSoy Nexus ⚡ y espero haberte ayudado\no al menos haberte hecho pasar\nun buen rato 😄\n\n🎯 Antes de irte:\n• Guarda tus comandos favoritos ⭐\n• Invita a otros a usar el bot 👥\n• Y vuelve cuando quieras 🔄\n\n💡 Recuerda:\nSiempre habrá algo nuevo por descubrir\ncada vez que regreses 👀\n\n🔥 Dato:\nEl bot sigue activo… incluso cuando tú no estás 😏\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3,
+    "botActivo": true
+  },
+  "120363407536201041@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n🎯 ¿Qué puedes hacer?\n• Juegos y diversión 🎮\n• Comandos útiles 🛠️\n• Interacción con otros 👥\n• Y varias sorpresas más ✨\n\n💡 Consejo rápido:\nEscribe #menu y explora todo lo que tengo para ti\n\n🔥 Tip:\nMientras más uses los comandos,\nmás cosas irás descubriendo 👀\n\n✨ Relájate, explora y disfruta\neste pequeño rincón digital\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\nSoy Nexus ⚡ y espero haberte ayudado\no al menos haberte hecho pasar\nun buen rato 😄\n\n🎯 Antes de irte:\n• Guarda tus comandos favoritos ⭐\n• Invita a otros a usar el bot 👥\n• Y vuelve cuando quieras 🔄\n\n💡 Recuerda:\nSiempre habrá algo nuevo por descubrir\ncada vez que regreses 👀\n\n🔥 Dato:\nEl bot sigue activo… incluso cuando tú no estás 😏\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3,
+    "botActivo": false
+  },
+  "120363423665787592@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n🎯 ¿Qué puedes hacer?\n• Juegos y diversión 🎮\n• Comandos útiles 🛠️\n• Interacción con otros 👥\n• Y varias sorpresas más ✨\n\n💡 Consejo rápido:\nEscribe #menu y explora todo lo que tengo para ti\n\n🔥 Tip:\nMientras más uses los comandos,\nmás cosas irás descubriendo 👀\n\n✨ Relájate, explora y disfruta\neste pequeño rincón digital\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\nSoy Nexus ⚡ y espero haberte ayudado\no al menos haberte hecho pasar\nun buen rato 😄\n\n🎯 Antes de irte:\n• Guarda tus comandos favoritos ⭐\n• Invita a otros a usar el bot 👥\n• Y vuelve cuando quieras 🔄\n\n💡 Recuerda:\nSiempre habrá algo nuevo por descubrir\ncada vez que regreses 👀\n\n🔥 Dato:\nEl bot sigue activo… incluso cuando tú no estás 😏\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3
+  },
+  "120363425542489760@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n🎯 ¿Qué puedes hacer?\n• Juegos y diversión 🎮\n• Comandos útiles 🛠️\n• Interacción con otros 👥\n• Y varias sorpresas más ✨\n\n💡 Consejo rápido:\nEscribe #menu y explora todo lo que tengo para ti\n\n🔥 Tip:\nMientras más uses los comandos,\nmás cosas irás descubriendo 👀\n\n✨ Relájate, explora y disfruta\neste pequeño rincón digital\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\nSoy Nexus ⚡ y espero haberte ayudado\no al menos haberte hecho pasar\nun buen rato 😄\n\n🎯 Antes de irte:\n• Guarda tus comandos favoritos ⭐\n• Invita a otros a usar el bot 👥\n• Y vuelve cuando quieras 🔄\n\n💡 Recuerda:\nSiempre habrá algo nuevo por descubrir\ncada vez que regreses 👀\n\n🔥 Dato:\nEl bot sigue activo… incluso cuando tú no estás 😏\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3
+  },
+  "120363401981995087@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n🎯 ¿Qué puedes hacer?\n• Juegos y diversión 🎮\n• Comandos útiles 🛠️\n• Interacción con otros 👥\n• Y varias sorpresas más ✨\n\n💡 Consejo rápido:\nEscribe #menu y explora todo lo que tengo para ti\n\n🔥 Tip:\nMientras más uses los comandos,\nmás cosas irás descubriendo 👀\n\n✨ Relájate, explora y disfruta\neste pequeño rincón digital\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\nSoy Nexus ⚡ y espero haberte ayudado\no al menos haberte hecho pasar\nun buen rato 😄\n\n🎯 Antes de irte:\n• Guarda tus comandos favoritos ⭐\n• Invita a otros a usar el bot 👥\n• Y vuelve cuando quieras 🔄\n\n💡 Recuerda:\nSiempre habrá algo nuevo por descubrir\ncada vez que regreses 👀\n\n🔥 Dato:\nEl bot sigue activo… incluso cuando tú no estás 😏\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3
+  },
+  "120363428566194713@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n🎯 ¿Qué puedes hacer?\n• Juegos y diversión 🎮\n• Comandos útiles 🛠️\n• Interacción con otros 👥\n• Y varias sorpresas más ✨\n\n💡 Consejo rápido:\nEscribe #menu y explora todo lo que tengo para ti\n\n🔥 Tip:\nMientras más uses los comandos,\nmás cosas irás descubriendo 👀\n\n✨ Relájate, explora y disfruta\neste pequeño rincón digital\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\nSoy Nexus ⚡ y espero haberte ayudado\no al menos haberte hecho pasar\nun buen rato 😄\n\n🎯 Antes de irte:\n• Guarda tus comandos favoritos ⭐\n• Invita a otros a usar el bot 👥\n• Y vuelve cuando quieras 🔄\n\n💡 Recuerda:\nSiempre habrá algo nuevo por descubrir\ncada vez que regreses 👀\n\n🔥 Dato:\nEl bot sigue activo… incluso cuando tú no estás 😏\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3,
+    "botActivo": false,
+    "gachaOn": false,
+    "nsfw": false
+  },
+  "120363409711934168@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n🎯 ¿Qué puedes hacer?\n• Juegos y diversión 🎮\n• Comandos útiles 🛠️\n• Interacción con otros 👥\n• Y varias sorpresas más ✨\n\n💡 Consejo rápido:\nEscribe #menu y explora todo lo que tengo para ti\n\n🔥 Tip:\nMientras más uses los comandos,\nmás cosas irás descubriendo 👀\n\n✨ Relájate, explora y disfruta\neste pequeño rincón digital\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\nSoy Nexus ⚡ y espero haberte ayudado\no al menos haberte hecho pasar\nun buen rato 😄\n\n🎯 Antes de irte:\n• Guarda tus comandos favoritos ⭐\n• Invita a otros a usar el bot 👥\n• Y vuelve cuando quieras 🔄\n\n💡 Recuerda:\nSiempre habrá algo nuevo por descubrir\ncada vez que regreses 👀\n\n🔥 Dato:\nEl bot sigue activo… incluso cuando tú no estás 😏\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3,
+    "nsfw": true,
+    "botActivo": true
+  },
+  "120363406029290605@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n🎯 ¿Qué puedes hacer?\n• Juegos y diversión 🎮\n• Comandos útiles 🛠️\n• Interacción con otros 👥\n• Y varias sorpresas más ✨\n\n💡 Consejo rápido:\nEscribe #menu y explora todo lo que tengo para ti\n\n🔥 Tip:\nMientras más uses los comandos,\nmás cosas irás descubriendo 👀\n\n✨ Relájate, explora y disfruta\neste pequeño rincón digital\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\nSoy Nexus ⚡ y espero haberte ayudado\no al menos haberte hecho pasar\nun buen rato 😄\n\n🎯 Antes de irte:\n• Guarda tus comandos favoritos ⭐\n• Invita a otros a usar el bot 👥\n• Y vuelve cuando quieras 🔄\n\n💡 Recuerda:\nSiempre habrá algo nuevo por descubrir\ncada vez que regreses 👀\n\n🔥 Dato:\nEl bot sigue activo… incluso cuando tú no estás 😏\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3,
+    "botActivo": true
+  },
+  "120363396476889468@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n🎯 ¿Qué puedes hacer?\n• Juegos y diversión 🎮\n• Comandos útiles 🛠️\n• Interacción con otros 👥\n• Y varias sorpresas más ✨\n\n💡 Consejo rápido:\nEscribe #menu y explora todo lo que tengo para ti\n\n🔥 Tip:\nMientras más uses los comandos,\nmás cosas irás descubriendo 👀\n\n✨ Relájate, explora y disfruta\neste pequeño rincón digital\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\nSoy Nexus ⚡ y espero haberte ayudado\no al menos haberte hecho pasar\nun buen rato 😄\n\n🎯 Antes de irte:\n• Guarda tus comandos favoritos ⭐\n• Invita a otros a usar el bot 👥\n• Y vuelve cuando quieras 🔄\n\n💡 Recuerda:\nSiempre habrá algo nuevo por descubrir\ncada vez que regreses 👀\n\n🔥 Dato:\nEl bot sigue activo… incluso cuando tú no estás 😏\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3
+  },
+  "120363402838454270@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n🎯 ¿Qué puedes hacer?\n• Juegos y diversión 🎮\n• Comandos útiles 🛠️\n• Interacción con otros 👥\n• Y varias sorpresas más ✨\n\n💡 Consejo rápido:\nEscribe #menu y explora todo lo que tengo para ti\n\n🔥 Tip:\nMientras más uses los comandos,\nmás cosas irás descubriendo 👀\n\n✨ Relájate, explora y disfruta\neste pequeño rincón digital\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\nSoy Nexus ⚡ y espero haberte ayudado\no al menos haberte hecho pasar\nun buen rato 😄\n\n🎯 Antes de irte:\n• Guarda tus comandos favoritos ⭐\n• Invita a otros a usar el bot 👥\n• Y vuelve cuando quieras 🔄\n\n💡 Recuerda:\nSiempre habrá algo nuevo por descubrir\ncada vez que regreses 👀\n\n🔥 Dato:\nEl bot sigue activo… incluso cuando tú no estás 😏\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3
+  },
+  "120363421836115782@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n🎯 ¿Qué puedes hacer?\n• Juegos y diversión 🎮\n• Comandos útiles 🛠️\n• Interacción con otros 👥\n• Y varias sorpresas más ✨\n\n💡 Consejo rápido:\nEscribe #menu y explora todo lo que tengo para ti\n\n🔥 Tip:\nMientras más uses los comandos,\nmás cosas irás descubriendo 👀\n\n✨ Relájate, explora y disfruta\neste pequeño rincón digital\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\nSoy Nexus ⚡ y espero haberte ayudado\no al menos haberte hecho pasar\nun buen rato 😄\n\n🎯 Antes de irte:\n• Guarda tus comandos favoritos ⭐\n• Invita a otros a usar el bot 👥\n• Y vuelve cuando quieras 🔄\n\n💡 Recuerda:\nSiempre habrá algo nuevo por descubrir\ncada vez que regreses 👀\n\n🔥 Dato:\nEl bot sigue activo… incluso cuando tú no estás 😏\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3
+  },
+  "120363421137671381@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n🎯 ¿Qué puedes hacer?\n• Juegos y diversión 🎮\n• Comandos útiles 🛠️\n• Interacción con otros 👥\n• Y varias sorpresas más ✨\n\n💡 Consejo rápido:\nEscribe #menu y explora todo lo que tengo para ti\n\n🔥 Tip:\nMientras más uses los comandos,\nmás cosas irás descubriendo 👀\n\n✨ Relájate, explora y disfruta\neste pequeño rincón digital\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\nSoy Nexus ⚡ y espero haberte ayudado\no al menos haberte hecho pasar\nun buen rato 😄\n\n🎯 Antes de irte:\n• Guarda tus comandos favoritos ⭐\n• Invita a otros a usar el bot 👥\n• Y vuelve cuando quieras 🔄\n\n💡 Recuerda:\nSiempre habrá algo nuevo por descubrir\ncada vez que regreses 👀\n\n🔥 Dato:\nEl bot sigue activo… incluso cuando tú no estás 😏\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3,
+    "botActivo": false
+  },
+  "120363421045192300@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n🎯 ¿Qué puedes hacer?\n• Juegos y diversión 🎮\n• Comandos útiles 🛠️\n• Interacción con otros 👥\n• Y varias sorpresas más ✨\n\n💡 Consejo rápido:\nEscribe #menu y explora todo lo que tengo para ti\n\n🔥 Tip:\nMientras más uses los comandos,\nmás cosas irás descubriendo 👀\n\n✨ Relájate, explora y disfruta\neste pequeño rincón digital\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\nSoy Nexus ⚡ y espero haberte ayudado\no al menos haberte hecho pasar\nun buen rato 😄\n\n🎯 Antes de irte:\n• Guarda tus comandos favoritos ⭐\n• Invita a otros a usar el bot 👥\n• Y vuelve cuando quieras 🔄\n\n💡 Recuerda:\nSiempre habrá algo nuevo por descubrir\ncada vez que regreses 👀\n\n🔥 Dato:\nEl bot sigue activo… incluso cuando tú no estás 😏\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3
+  },
+  "120363425529523428@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n🎯 ¿Qué puedes hacer?\n• Juegos y diversión 🎮\n• Comandos útiles 🛠️\n• Interacción con otros 👥\n• Y varias sorpresas más ✨\n\n💡 Consejo rápido:\nEscribe #menu y explora todo lo que tengo para ti\n\n🔥 Tip:\nMientras más uses los comandos,\nmás cosas irás descubriendo 👀\n\n✨ Relájate, explora y disfruta\neste pequeño rincón digital\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\nSoy Nexus ⚡ y espero haberte ayudado\no al menos haberte hecho pasar\nun buen rato 😄\n\n🎯 Antes de irte:\n• Guarda tus comandos favoritos ⭐\n• Invita a otros a usar el bot 👥\n• Y vuelve cuando quieras 🔄\n\n💡 Recuerda:\nSiempre habrá algo nuevo por descubrir\ncada vez que regreses 👀\n\n🔥 Dato:\nEl bot sigue activo… incluso cuando tú no estás 😏\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3
+  },
+  "120363427553085048@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n🎯 ¿Qué puedes hacer?\n• Juegos y diversión 🎮\n• Comandos útiles 🛠️\n• Interacción con otros 👥\n• Y varias sorpresas más ✨\n\n💡 Consejo rápido:\nEscribe #menu y explora todo lo que tengo para ti\n\n🔥 Tip:\nMientras más uses los comandos,\nmás cosas irás descubriendo 👀\n\n✨ Relájate, explora y disfruta\neste pequeño rincón digital\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\nSoy Nexus ⚡ y espero haberte ayudado\no al menos haberte hecho pasar\nun buen rato 😄\n\n🎯 Antes de irte:\n• Guarda tus comandos favoritos ⭐\n• Invita a otros a usar el bot 👥\n• Y vuelve cuando quieras 🔄\n\n💡 Recuerda:\nSiempre habrá algo nuevo por descubrir\ncada vez que regreses 👀\n\n🔥 Dato:\nEl bot sigue activo… incluso cuando tú no estás 😏\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3
+  },
+  "120363409307297629@g.us": {
+    "bienvenida": true,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n🎯 ¿Qué puedes hacer?\n• Juegos y diversión 🎮\n• Comandos útiles 🛠️\n• Interacción con otros 👥\n• Y varias sorpresas más ✨\n\n💡 Consejo rápido:\nEscribe #menu y explora todo lo que tengo para ti\n\n🔥 Tip:\nMientras más uses los comandos,\nmás cosas irás descubriendo 👀\n\n✨ Relájate, explora y disfruta\neste pequeño rincón digital\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\nSoy Nexus ⚡ y espero haberte ayudado\no al menos haberte hecho pasar\nun buen rato 😄\n\n🎯 Antes de irte:\n• Guarda tus comandos favoritos ⭐\n• Invita a otros a usar el bot 👥\n• Y vuelve cuando quieras 🔄\n\n💡 Recuerda:\nSiempre habrá algo nuevo por descubrir\ncada vez que regreses 👀\n\n🔥 Dato:\nEl bot sigue activo… incluso cuando tú no estás 😏\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 10,
+    "botActivo": true,
+    "encuesta": {
+      "pregunta": "¿cuántos años tengo?",
+      "opciones": [
+        "15",
+        "16"
+      ],
+      "votos": {},
+      "autor": "110849532375115@lid",
+      "fecha": 1778020562201
+    },
+    "mutedUsers": [],
+    "mutedExpiry": {},
+    "warns": {
+      "256392669700295@lid": 0
+    },
+    "economyOn": true,
+    "nsfw": true
+  },
+  "120363425296252571@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n🎯 ¿Qué puedes hacer?\n• Juegos y diversión 🎮\n• Comandos útiles 🛠️\n• Interacción con otros 👥\n• Y varias sorpresas más ✨\n\n💡 Consejo rápido:\nEscribe #menu y explora todo lo que tengo para ti\n\n🔥 Tip:\nMientras más uses los comandos,\nmás cosas irás descubriendo 👀\n\n✨ Relájate, explora y disfruta\neste pequeño rincón digital\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\nSoy Nexus ⚡ y espero haberte ayudado\no al menos haberte hecho pasar\nun buen rato 😄\n\n🎯 Antes de irte:\n• Guarda tus comandos favoritos ⭐\n• Invita a otros a usar el bot 👥\n• Y vuelve cuando quieras 🔄\n\n💡 Recuerda:\nSiempre habrá algo nuevo por descubrir\ncada vez que regreses 👀\n\n🔥 Dato:\nEl bot sigue activo… incluso cuando tú no estás 😏\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3,
+    "nsfw": true
+  },
+  "120363400869186996@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n🎯 ¿Qué puedes hacer?\n• Juegos y diversión 🎮\n• Comandos útiles 🛠️\n• Interacción con otros 👥\n• Y varias sorpresas más ✨\n\n💡 Consejo rápido:\nEscribe #menu y explora todo lo que tengo para ti\n\n🔥 Tip:\nMientras más uses los comandos,\nmás cosas irás descubriendo 👀\n\n✨ Relájate, explora y disfruta\neste pequeño rincón digital\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\nSoy Nexus ⚡ y espero haberte ayudado\no al menos haberte hecho pasar\nun buen rato 😄\n\n🎯 Antes de irte:\n• Guarda tus comandos favoritos ⭐\n• Invita a otros a usar el bot 👥\n• Y vuelve cuando quieras 🔄\n\n💡 Recuerda:\nSiempre habrá algo nuevo por descubrir\ncada vez que regreses 👀\n\n🔥 Dato:\nEl bot sigue activo… incluso cuando tú no estás 😏\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3,
+    "botActivo": false,
+    "nsfw": true
+  },
+  "120363408350301073@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n🎯 ¿Qué puedes hacer?\n• Juegos y diversión 🎮\n• Comandos útiles 🛠️\n• Interacción con otros 👥\n• Y varias sorpresas más ✨\n\n💡 Consejo rápido:\nEscribe #menu y explora todo lo que tengo para ti\n\n🔥 Tip:\nMientras más uses los comandos,\nmás cosas irás descubriendo 👀\n\n✨ Relájate, explora y disfruta\neste pequeño rincón digital\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\nSoy Nexus ⚡ y espero haberte ayudado\no al menos haberte hecho pasar\nun buen rato 😄\n\n🎯 Antes de irte:\n• Guarda tus comandos favoritos ⭐\n• Invita a otros a usar el bot 👥\n• Y vuelve cuando quieras 🔄\n\n💡 Recuerda:\nSiempre habrá algo nuevo por descubrir\ncada vez que regreses 👀\n\n🔥 Dato:\nEl bot sigue activo… incluso cuando tú no estás 😏\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3
+  },
+  "573228314749@s.whatsapp.net": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n🎯 ¿Qué puedes hacer?\n• Juegos y diversión 🎮\n• Comandos útiles 🛠️\n• Interacción con otros 👥\n• Y varias sorpresas más ✨\n\n💡 Consejo rápido:\nEscribe #menu y explora todo lo que tengo para ti\n\n🔥 Tip:\nMientras más uses los comandos,\nmás cosas irás descubriendo 👀\n\n✨ Relájate, explora y disfruta\neste pequeño rincón digital\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\nSoy Nexus ⚡ y espero haberte ayudado\no al menos haberte hecho pasar\nun buen rato 😄\n\n🎯 Antes de irte:\n• Guarda tus comandos favoritos ⭐\n• Invita a otros a usar el bot 👥\n• Y vuelve cuando quieras 🔄\n\n💡 Recuerda:\nSiempre habrá algo nuevo por descubrir\ncada vez que regreses 👀\n\n🔥 Dato:\nEl bot sigue activo… incluso cuando tú no estás 😏\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3
+  },
+  "120363044806584846@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n🎯 ¿Qué puedes hacer?\n• Juegos y diversión 🎮\n• Comandos útiles 🛠️\n• Interacción con otros 👥\n• Y varias sorpresas más ✨\n\n💡 Consejo rápido:\nEscribe #menu y explora todo lo que tengo para ti\n\n🔥 Tip:\nMientras más uses los comandos,\nmás cosas irás descubriendo 👀\n\n✨ Relájate, explora y disfruta\neste pequeño rincón digital\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\nSoy Nexus ⚡ y espero haberte ayudado\no al menos haberte hecho pasar\nun buen rato 😄\n\n🎯 Antes de irte:\n• Guarda tus comandos favoritos ⭐\n• Invita a otros a usar el bot 👥\n• Y vuelve cuando quieras 🔄\n\n💡 Recuerda:\nSiempre habrá algo nuevo por descubrir\ncada vez que regreses 👀\n\n🔥 Dato:\nEl bot sigue activo… incluso cuando tú no estás 😏\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3
+  },
+  "140811257786422@lid": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n🎯 ¿Qué puedes hacer?\n• Juegos y diversión 🎮\n• Comandos útiles 🛠️\n• Interacción con otros 👥\n• Y varias sorpresas más ✨\n\n💡 Consejo rápido:\nEscribe #menu y explora todo lo que tengo para ti\n\n🔥 Tip:\nMientras más uses los comandos,\nmás cosas irás descubriendo 👀\n\n✨ Relájate, explora y disfruta\neste pequeño rincón digital\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\nSoy Nexus ⚡ y espero haberte ayudado\no al menos haberte hecho pasar\nun buen rato 😄\n\n🎯 Antes de irte:\n• Guarda tus comandos favoritos ⭐\n• Invita a otros a usar el bot 👥\n• Y vuelve cuando quieras 🔄\n\n💡 Recuerda:\nSiempre habrá algo nuevo por descubrir\ncada vez que regreses 👀\n\n🔥 Dato:\nEl bot sigue activo… incluso cuando tú no estás 😏\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3
+  },
+  "183919760683157@lid": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n🎯 ¿Qué puedes hacer?\n• Juegos y diversión 🎮\n• Comandos útiles 🛠️\n• Interacción con otros 👥\n• Y varias sorpresas más ✨\n\n💡 Consejo rápido:\nEscribe #menu y explora todo lo que tengo para ti\n\n🔥 Tip:\nMientras más uses los comandos,\nmás cosas irás descubriendo 👀\n\n✨ Relájate, explora y disfruta\neste pequeño rincón digital\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\nSoy Nexus ⚡ y espero haberte ayudado\no al menos haberte hecho pasar\nun buen rato 😄\n\n🎯 Antes de irte:\n• Guarda tus comandos favoritos ⭐\n• Invita a otros a usar el bot 👥\n• Y vuelve cuando quieras 🔄\n\n💡 Recuerda:\nSiempre habrá algo nuevo por descubrir\ncada vez que regreses 👀\n\n🔥 Dato:\nEl bot sigue activo… incluso cuando tú no estás 😏\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3
+  },
+  "256379868680306@lid": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n🎯 ¿Qué puedes hacer?\n• Juegos y diversión 🎮\n• Comandos útiles 🛠️\n• Interacción con otros 👥\n• Y varias sorpresas más ✨\n\n💡 Consejo rápido:\nEscribe #menu y explora todo lo que tengo para ti\n\n🔥 Tip:\nMientras más uses los comandos,\nmás cosas irás descubriendo 👀\n\n✨ Relájate, explora y disfruta\neste pequeño rincón digital\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\nSoy Nexus ⚡ y espero haberte ayudado\no al menos haberte hecho pasar\nun buen rato 😄\n\n🎯 Antes de irte:\n• Guarda tus comandos favoritos ⭐\n• Invita a otros a usar el bot 👥\n• Y vuelve cuando quieras 🔄\n\n💡 Recuerda:\nSiempre habrá algo nuevo por descubrir\ncada vez que regreses 👀\n\n🔥 Dato:\nEl bot sigue activo… incluso cuando tú no estás 😏\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3
+  },
+  "209049597546659@lid": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n🎯 ¿Qué puedes hacer?\n• Juegos y diversión 🎮\n• Comandos útiles 🛠️\n• Interacción con otros 👥\n• Y varias sorpresas más ✨\n\n💡 Consejo rápido:\nEscribe #menu y explora todo lo que tengo para ti\n\n🔥 Tip:\nMientras más uses los comandos,\nmás cosas irás descubriendo 👀\n\n✨ Relájate, explora y disfruta\neste pequeño rincón digital\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\nSoy Nexus ⚡ y espero haberte ayudado\no al menos haberte hecho pasar\nun buen rato 😄\n\n🎯 Antes de irte:\n• Guarda tus comandos favoritos ⭐\n• Invita a otros a usar el bot 👥\n• Y vuelve cuando quieras 🔄\n\n💡 Recuerda:\nSiempre habrá algo nuevo por descubrir\ncada vez que regreses 👀\n\n🔥 Dato:\nEl bot sigue activo… incluso cuando tú no estás 😏\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3
+  },
+  "120363426136929030@g.us": {
+    "bienvenida": true,
+    "mensajeBienvenida": "✧･ﾟ: ✧･ﾟ: 𝐁𝐈𝐄𝐍𝐕𝐄𝐍𝐈𝐃𝐎/𝐀 :･ﾟ✧:･ﾟ✧\n\n♡₊˚ 🦢・\n\nHola @ 👋🌸\nEs un gusto tenerte aquí con nosotros. Mi nombre es 𝐂𝐡𝐱𝐥𝐥𝐬 y soy parte del equipo de administradores del grupo 💫\n\nAntes que nada, queremos darte la bienvenida y agradecerte por formar parte de esta comunidad. Esperamos que puedas sentirte cómodo/a, conocer nuevas personas y pasar un buen rato aquí 🤝💙\n\n╭─ ❖ 「 📌 𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐂𝐈𝐎́𝐍 𝐃𝐄𝐋 𝐆𝐑𝐔𝐏𝐎 」\n│\n├ ✦ Este grupo fue creado para compartir, convivir y mantener un ambiente agradable entre todos 🌟\n│\n├ ✦ Te pedimos tratar a los demás con respeto. No se permite lenguaje ofensivo, discriminación ni problemas innecesarios 💬🚫\n│\n├ ✦ Evita el spam, cadenas o contenido fuera de tema para mantener el grupo organizado 📵\n│\n├ ✦ Está prohibido enviar contenido explícito, violento o ilegal ⚠️\n│\n├ ✦ Las reglas completas se encuentran en la descripción del grupo 📖\n│\n╰─────────────── ❖\n\n⚖️ Importante:\nLas faltas leves normalmente serán advertidas primero, pero reincidir o incumplir las normas puede terminar en suspensión temporal o expulsión del grupo ⏳🔒\n\n👑 Equipo administrativo:\n• ◇𝐉𝐞𝐬𝐮𝐬◇\n• ✝★𝐀𝐧𝐝𝐞𝐫𝐬𝐨𝐧☂★\n• +503 6161 8176\n• 𝐂𝐡𝐱𝐥𝐥𝐬\n\nSi tienes alguna duda, problema o necesitas ayuda, puedes comunicarte con cualquiera de nosotros. Estamos para ayudarte 🫂✨\n\n🌎 Cuando quieras, también puedes presentarte diciendo tu nombre, edad y país. Así podremos conocerte un poco mejor y hacer la comunidad más cercana 💙\n\nGracias por tomarte el tiempo de leer todo esto 🙏\nEsperamos que disfrutes tu estancia y aportes cosas positivas al grupo 🎉✨\n\n𝐂𝐡𝐱𝐥𝐥𝐬 & Administradores 👑\n\n⋆｡˚ ☁︎｡⋆｡ ˚☽˚｡⋆\n✧ ˚ · . ♡ . · ˚ ✧",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\nSoy Nexus ⚡ y espero haberte ayudado\no al menos haberte hecho pasar\nun buen rato 😄\n\n🎯 Antes de irte:\n• Guarda tus comandos favoritos ⭐\n• Invita a otros a usar el bot 👥\n• Y vuelve cuando quieras 🔄\n\n💡 Recuerda:\nSiempre habrá algo nuevo por descubrir\ncada vez que regreses 👀\n\n🔥 Dato:\nEl bot sigue activo… incluso cuando tú no estás 😏\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3,
+    "chatHabilitado": true
+  },
+  "120363428430411376@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n🎯 ¿Qué puedes hacer?\n• Juegos y diversión 🎮\n• Comandos útiles 🛠️\n• Interacción con otros 👥\n• Y varias sorpresas más ✨\n\n💡 Consejo rápido:\nEscribe #menu y explora todo lo que tengo para ti\n\n🔥 Tip:\nMientras más uses los comandos,\nmás cosas irás descubriendo 👀\n\n✨ Relájate, explora y disfruta\neste pequeño rincón digital\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\nSoy Nexus ⚡ y espero haberte ayudado\no al menos haberte hecho pasar\nun buen rato 😄\n\n🎯 Antes de irte:\n• Guarda tus comandos favoritos ⭐\n• Invita a otros a usar el bot 👥\n• Y vuelve cuando quieras 🔄\n\n💡 Recuerda:\nSiempre habrá algo nuevo por descubrir\ncada vez que regreses 👀\n\n🔥 Dato:\nEl bot sigue activo… incluso cuando tú no estás 😏\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3
+  },
+  "263088859279467@lid": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n🎯 ¿Qué puedes hacer?\n• Juegos y diversión 🎮\n• Comandos útiles 🛠️\n• Interacción con otros 👥\n• Y varias sorpresas más ✨\n\n💡 Consejo rápido:\nEscribe #menu y explora todo lo que tengo para ti\n\n🔥 Tip:\nMientras más uses los comandos,\nmás cosas irás descubriendo 👀\n\n✨ Relájate, explora y disfruta\neste pequeño rincón digital\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\nSoy Nexus ⚡ y espero haberte ayudado\no al menos haberte hecho pasar\nun buen rato 😄\n\n🎯 Antes de irte:\n• Guarda tus comandos favoritos ⭐\n• Invita a otros a usar el bot 👥\n• Y vuelve cuando quieras 🔄\n\n💡 Recuerda:\nSiempre habrá algo nuevo por descubrir\ncada vez que regreses 👀\n\n🔥 Dato:\nEl bot sigue activo… incluso cuando tú no estás 😏\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3
+  },
+  "120363381205827866@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n🎯 ¿Qué puedes hacer?\n• Juegos y diversión 🎮\n• Comandos útiles 🛠️\n• Interacción con otros 👥\n• Y varias sorpresas más ✨\n\n💡 Consejo rápido:\nEscribe #menu y explora todo lo que tengo para ti\n\n🔥 Tip:\nMientras más uses los comandos,\nmás cosas irás descubriendo 👀\n\n✨ Relájate, explora y disfruta\neste pequeño rincón digital\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\nSoy Nexus ⚡ y espero haberte ayudado\no al menos haberte hecho pasar\nun buen rato 😄\n\n🎯 Antes de irte:\n• Guarda tus comandos favoritos ⭐\n• Invita a otros a usar el bot 👥\n• Y vuelve cuando quieras 🔄\n\n💡 Recuerda:\nSiempre habrá algo nuevo por descubrir\ncada vez que regreses 👀\n\n🔥 Dato:\nEl bot sigue activo… incluso cuando tú no estás 😏\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3
+  },
+  "120363421843850454@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n🎯 ¿Qué puedes hacer?\n• Juegos y diversión 🎮\n• Comandos útiles 🛠️\n• Interacción con otros 👥\n• Y varias sorpresas más ✨\n\n💡 Consejo rápido:\nEscribe #menu y explora todo lo que tengo para ti\n\n🔥 Tip:\nMientras más uses los comandos,\nmás cosas irás descubriendo 👀\n\n✨ Relájate, explora y disfruta\neste pequeño rincón digital\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\nSoy Nexus ⚡ y espero haberte ayudado\no al menos haberte hecho pasar\nun buen rato 😄\n\n🎯 Antes de irte:\n• Guarda tus comandos favoritos ⭐\n• Invita a otros a usar el bot 👥\n• Y vuelve cuando quieras 🔄\n\n💡 Recuerda:\nSiempre habrá algo nuevo por descubrir\ncada vez que regreses 👀\n\n🔥 Dato:\nEl bot sigue activo… incluso cuando tú no estás 😏\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3
+  },
+  "120363316552478230@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n🎯 ¿Qué puedes hacer?\n• Juegos y diversión 🎮\n• Comandos útiles 🛠️\n• Interacción con otros 👥\n• Y varias sorpresas más ✨\n\n💡 Consejo rápido:\nEscribe #menu y explora todo lo que tengo para ti\n\n🔥 Tip:\nMientras más uses los comandos,\nmás cosas irás descubriendo 👀\n\n✨ Relájate, explora y disfruta\neste pequeño rincón digital\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\nSoy Nexus ⚡ y espero haberte ayudado\no al menos haberte hecho pasar\nun buen rato 😄\n\n🎯 Antes de irte:\n• Guarda tus comandos favoritos ⭐\n• Invita a otros a usar el bot 👥\n• Y vuelve cuando quieras 🔄\n\n💡 Recuerda:\nSiempre habrá algo nuevo por descubrir\ncada vez que regreses 👀\n\n🔥 Dato:\nEl bot sigue activo… incluso cuando tú no estás 😏\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3
+  },
+  "125035809382400@lid": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n🎯 ¿Qué puedes hacer?\n• Juegos y diversión 🎮\n• Comandos útiles 🛠️\n• Interacción con otros 👥\n• Y varias sorpresas más ✨\n\n💡 Consejo rápido:\nEscribe #menu y explora todo lo que tengo para ti\n\n🔥 Tip:\nMientras más uses los comandos,\nmás cosas irás descubriendo 👀\n\n✨ Relájate, explora y disfruta\neste pequeño rincón digital\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\nSoy Nexus ⚡ y espero haberte ayudado\no al menos haberte hecho pasar\nun buen rato 😄\n\n🎯 Antes de irte:\n• Guarda tus comandos favoritos ⭐\n• Invita a otros a usar el bot 👥\n• Y vuelve cuando quieras 🔄\n\n💡 Recuerda:\nSiempre habrá algo nuevo por descubrir\ncada vez que regreses 👀\n\n🔥 Dato:\nEl bot sigue activo… incluso cuando tú no estás 😏\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3
+  },
+  "120363315398991126@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n🎯 ¿Qué puedes hacer?\n• Juegos y diversión 🎮\n• Comandos útiles 🛠️\n• Interacción con otros 👥\n• Y varias sorpresas más ✨\n\n💡 Consejo rápido:\nEscribe #menu y explora todo lo que tengo para ti\n\n🔥 Tip:\nMientras más uses los comandos,\nmás cosas irás descubriendo 👀\n\n✨ Relájate, explora y disfruta\neste pequeño rincón digital\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\nSoy Nexus ⚡ y espero haberte ayudado\no al menos haberte hecho pasar\nun buen rato 😄\n\n🎯 Antes de irte:\n• Guarda tus comandos favoritos ⭐\n• Invita a otros a usar el bot 👥\n• Y vuelve cuando quieras 🔄\n\n💡 Recuerda:\nSiempre habrá algo nuevo por descubrir\ncada vez que regreses 👀\n\n🔥 Dato:\nEl bot sigue activo… incluso cuando tú no estás 😏\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3
+  },
+  "120363407133140216@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n🎯 ¿Qué puedes hacer?\n• Juegos y diversión 🎮\n• Comandos útiles 🛠️\n• Interacción con otros 👥\n• Y varias sorpresas más ✨\n\n💡 Consejo rápido:\nEscribe #menu y explora todo lo que tengo para ti\n\n🔥 Tip:\nMientras más uses los comandos,\nmás cosas irás descubriendo 👀\n\n✨ Relájate, explora y disfruta\neste pequeño rincón digital\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\nSoy Nexus ⚡ y espero haberte ayudado\no al menos haberte hecho pasar\nun buen rato 😄\n\n🎯 Antes de irte:\n• Guarda tus comandos favoritos ⭐\n• Invita a otros a usar el bot 👥\n• Y vuelve cuando quieras 🔄\n\n💡 Recuerda:\nSiempre habrá algo nuevo por descubrir\ncada vez que regreses 👀\n\n🔥 Dato:\nEl bot sigue activo… incluso cuando tú no estás 😏\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3
+  },
+  "40751287291917@lid": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n🎯 ¿Qué puedes hacer?\n• Juegos y diversión 🎮\n• Comandos útiles 🛠️\n• Interacción con otros 👥\n• Y varias sorpresas más ✨\n\n💡 Consejo rápido:\nEscribe #menu y explora todo lo que tengo para ti\n\n🔥 Tip:\nMientras más uses los comandos,\nmás cosas irás descubriendo 👀\n\n✨ Relájate, explora y disfruta\neste pequeño rincón digital\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\nSoy Nexus ⚡ y espero haberte ayudado\no al menos haberte hecho pasar\nun buen rato 😄\n\n🎯 Antes de irte:\n• Guarda tus comandos favoritos ⭐\n• Invita a otros a usar el bot 👥\n• Y vuelve cuando quieras 🔄\n\n💡 Recuerda:\nSiempre habrá algo nuevo por descubrir\ncada vez que regreses 👀\n\n🔥 Dato:\nEl bot sigue activo… incluso cuando tú no estás 😏\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3
+  },
+  "120363427003478207@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n🎯 ¿Qué puedes hacer?\n• Juegos y diversión 🎮\n• Comandos útiles 🛠️\n• Interacción con otros 👥\n• Y varias sorpresas más ✨\n\n💡 Consejo rápido:\nEscribe #menu y explora todo lo que tengo para ti\n\n🔥 Tip:\nMientras más uses los comandos,\nmás cosas irás descubriendo 👀\n\n✨ Relájate, explora y disfruta\neste pequeño rincón digital\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\nSoy Nexus ⚡ y espero haberte ayudado\no al menos haberte hecho pasar\nun buen rato 😄\n\n🎯 Antes de irte:\n• Guarda tus comandos favoritos ⭐\n• Invita a otros a usar el bot 👥\n• Y vuelve cuando quieras 🔄\n\n💡 Recuerda:\nSiempre habrá algo nuevo por descubrir\ncada vez que regreses 👀\n\n🔥 Dato:\nEl bot sigue activo… incluso cuando tú no estás 😏\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3
+  },
+  "120363409966706155@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n🎯 ¿Qué puedes hacer?\n• Juegos y diversión 🎮\n• Comandos útiles 🛠️\n• Interacción con otros 👥\n• Y varias sorpresas más ✨\n\n💡 Consejo rápido:\nEscribe #menu y explora todo lo que tengo para ti\n\n🔥 Tip:\nMientras más uses los comandos,\nmás cosas irás descubriendo 👀\n\n✨ Relájate, explora y disfruta\neste pequeño rincón digital\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\nSoy Nexus ⚡ y espero haberte ayudado\no al menos haberte hecho pasar\nun buen rato 😄\n\n🎯 Antes de irte:\n• Guarda tus comandos favoritos ⭐\n• Invita a otros a usar el bot 👥\n• Y vuelve cuando quieras 🔄\n\n💡 Recuerda:\nSiempre habrá algo nuevo por descubrir\ncada vez que regreses 👀\n\n🔥 Dato:\nEl bot sigue activo… incluso cuando tú no estás 😏\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3
+  },
+  "279258891034830@lid": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n🎯 ¿Qué puedes hacer?\n• Juegos y diversión 🎮\n• Comandos útiles 🛠️\n• Interacción con otros 👥\n• Y varias sorpresas más ✨\n\n💡 Consejo rápido:\nEscribe #menu y explora todo lo que tengo para ti\n\n🔥 Tip:\nMientras más uses los comandos,\nmás cosas irás descubriendo 👀\n\n✨ Relájate, explora y disfruta\neste pequeño rincón digital\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\nSoy Nexus ⚡ y espero haberte ayudado\no al menos haberte hecho pasar\nun buen rato 😄\n\n🎯 Antes de irte:\n• Guarda tus comandos favoritos ⭐\n• Invita a otros a usar el bot 👥\n• Y vuelve cuando quieras 🔄\n\n💡 Recuerda:\nSiempre habrá algo nuevo por descubrir\ncada vez que regreses 👀\n\n🔥 Dato:\nEl bot sigue activo… incluso cuando tú no estás 😏\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3
+  },
+  "120363425946471543@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n🎯 ¿Qué puedes hacer?\n• Juegos y diversión 🎮\n• Comandos útiles 🛠️\n• Interacción con otros 👥\n• Y varias sorpresas más ✨\n\n💡 Consejo rápido:\nEscribe #menu y explora todo lo que tengo para ti\n\n🔥 Tip:\nMientras más uses los comandos,\nmás cosas irás descubriendo 👀\n\n✨ Relájate, explora y disfruta\neste pequeño rincón digital\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\nSoy Nexus ⚡ y espero haberte ayudado\no al menos haberte hecho pasar\nun buen rato 😄\n\n🎯 Antes de irte:\n• Guarda tus comandos favoritos ⭐\n• Invita a otros a usar el bot 👥\n• Y vuelve cuando quieras 🔄\n\n💡 Recuerda:\nSiempre habrá algo nuevo por descubrir\ncada vez que regreses 👀\n\n🔥 Dato:\nEl bot sigue activo… incluso cuando tú no estás 😏\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3,
+    "chatHabilitado": true,
+    "nsfw": true,
+    "botActivo": true
+  },
+  "120363427706308095@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n🎯 ¿Qué puedes hacer?\n• Juegos y diversión 🎮\n• Comandos útiles 🛠️\n• Interacción con otros 👥\n• Y varias sorpresas más ✨\n\n💡 Consejo rápido:\nEscribe #menu y explora todo lo que tengo para ti\n\n🔥 Tip:\nMientras más uses los comandos,\nmás cosas irás descubriendo 👀\n\n✨ Relájate, explora y disfruta\neste pequeño rincón digital\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\nSoy Nexus ⚡ y espero haberte ayudado\no al menos haberte hecho pasar\nun buen rato 😄\n\n🎯 Antes de irte:\n• Guarda tus comandos favoritos ⭐\n• Invita a otros a usar el bot 👥\n• Y vuelve cuando quieras 🔄\n\n💡 Recuerda:\nSiempre habrá algo nuevo por descubrir\ncada vez que regreses 👀\n\n🔥 Dato:\nEl bot sigue activo… incluso cuando tú no estás 😏\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3
+  },
+  "149735948189902@lid": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n🎯 ¿Qué puedes hacer?\n• Juegos y diversión 🎮\n• Comandos útiles 🛠️\n• Interacción con otros 👥\n• Y varias sorpresas más ✨\n\n💡 Consejo rápido:\nEscribe #menu y explora todo lo que tengo para ti\n\n🔥 Tip:\nMientras más uses los comandos,\nmás cosas irás descubriendo 👀\n\n✨ Relájate, explora y disfruta\neste pequeño rincón digital\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\nSoy Nexus ⚡ y espero haberte ayudado\no al menos haberte hecho pasar\nun buen rato 😄\n\n🎯 Antes de irte:\n• Guarda tus comandos favoritos ⭐\n• Invita a otros a usar el bot 👥\n• Y vuelve cuando quieras 🔄\n\n💡 Recuerda:\nSiempre habrá algo nuevo por descubrir\ncada vez que regreses 👀\n\n🔥 Dato:\nEl bot sigue activo… incluso cuando tú no estás 😏\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3
+  },
+  "165090456301724@lid": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n🎯 ¿Qué puedes hacer?\n• Juegos y diversión 🎮\n• Comandos útiles 🛠️\n• Interacción con otros 👥\n• Y varias sorpresas más ✨\n\n💡 Consejo rápido:\nEscribe #menu y explora todo lo que tengo para ti\n\n🔥 Tip:\nMientras más uses los comandos,\nmás cosas irás descubriendo 👀\n\n✨ Relájate, explora y disfruta\neste pequeño rincón digital\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\nSoy Nexus ⚡ y espero haberte ayudado\no al menos haberte hecho pasar\nun buen rato 😄\n\n🎯 Antes de irte:\n• Guarda tus comandos favoritos ⭐\n• Invita a otros a usar el bot 👥\n• Y vuelve cuando quieras 🔄\n\n💡 Recuerda:\nSiempre habrá algo nuevo por descubrir\ncada vez que regreses 👀\n\n🔥 Dato:\nEl bot sigue activo… incluso cuando tú no estás 😏\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3
+  },
+  "120363424838963525@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n🎯 ¿Qué puedes hacer?\n• Juegos y diversión 🎮\n• Comandos útiles 🛠️\n• Interacción con otros 👥\n• Y varias sorpresas más ✨\n\n💡 Consejo rápido:\nEscribe #menu y explora todo lo que tengo para ti\n\n🔥 Tip:\nMientras más uses los comandos,\nmás cosas irás descubriendo 👀\n\n✨ Relájate, explora y disfruta\neste pequeño rincón digital\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\nSoy Nexus ⚡ y espero haberte ayudado\no al menos haberte hecho pasar\nun buen rato 😄\n\n🎯 Antes de irte:\n• Guarda tus comandos favoritos ⭐\n• Invita a otros a usar el bot 👥\n• Y vuelve cuando quieras 🔄\n\n💡 Recuerda:\nSiempre habrá algo nuevo por descubrir\ncada vez que regreses 👀\n\n🔥 Dato:\nEl bot sigue activo… incluso cuando tú no estás 😏\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3,
+    "chatHabilitado": true,
+    "nsfw": true,
+    "botActivo": true,
+    "mutedUsers": [],
+    "mutedExpiry": {},
+    "warns": {
+      "38225896845348@lid": 1,
+      "160134198214765@lid": 0,
+      "113246057009241@lid": 0
+    },
+    "gachaOn": false,
+    "economyOn": false
+  },
+  "120363426443157543@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n🎯 ¿Qué puedes hacer?\n• Juegos y diversión 🎮\n• Comandos útiles 🛠️\n• Interacción con otros 👥\n• Y varias sorpresas más ✨\n\n💡 Consejo rápido:\nEscribe #menu y explora todo lo que tengo para ti\n\n🔥 Tip:\nMientras más uses los comandos,\nmás cosas irás descubriendo 👀\n\n✨ Relájate, explora y disfruta\neste pequeño rincón digital\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\nSoy Nexus ⚡ y espero haberte ayudado\no al menos haberte hecho pasar\nun buen rato 😄\n\n🎯 Antes de irte:\n• Guarda tus comandos favoritos ⭐\n• Invita a otros a usar el bot 👥\n• Y vuelve cuando quieras 🔄\n\n💡 Recuerda:\nSiempre habrá algo nuevo por descubrir\ncada vez que regreses 👀\n\n🔥 Dato:\nEl bot sigue activo… incluso cuando tú no estás 😏\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3,
+    "chatHabilitado": true,
+    "botActivo": true,
+    "nsfw": true
+  },
+  "120363411026101310@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n🎯 ¿Qué puedes hacer?\n• Juegos y diversión 🎮\n• Comandos útiles 🛠️\n• Interacción con otros 👥\n• Y varias sorpresas más ✨\n\n💡 Consejo rápido:\nEscribe #menu y explora todo lo que tengo para ti\n\n🔥 Tip:\nMientras más uses los comandos,\nmás cosas irás descubriendo 👀\n\n✨ Relájate, explora y disfruta\neste pequeño rincón digital\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\nSoy Nexus ⚡ y espero haberte ayudado\no al menos haberte hecho pasar\nun buen rato 😄\n\n🎯 Antes de irte:\n• Guarda tus comandos favoritos ⭐\n• Invita a otros a usar el bot 👥\n• Y vuelve cuando quieras 🔄\n\n💡 Recuerda:\nSiempre habrá algo nuevo por descubrir\ncada vez que regreses 👀\n\n🔥 Dato:\nEl bot sigue activo… incluso cuando tú no estás 😏\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3
+  },
+  "120363407405779003@newsletter": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n🎯 ¿Qué puedes hacer?\n• Juegos y diversión 🎮\n• Comandos útiles 🛠️\n• Interacción con otros 👥\n• Y varias sorpresas más ✨\n\n💡 Consejo rápido:\nEscribe #menu y explora todo lo que tengo para ti\n\n🔥 Tip:\nMientras más uses los comandos,\nmás cosas irás descubriendo 👀\n\n✨ Relájate, explora y disfruta\neste pequeño rincón digital\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\nSoy Nexus ⚡ y espero haberte ayudado\no al menos haberte hecho pasar\nun buen rato 😄\n\n🎯 Antes de irte:\n• Guarda tus comandos favoritos ⭐\n• Invita a otros a usar el bot 👥\n• Y vuelve cuando quieras 🔄\n\n💡 Recuerda:\nSiempre habrá algo nuevo por descubrir\ncada vez que regreses 👀\n\n🔥 Dato:\nEl bot sigue activo… incluso cuando tú no estás 😏\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3
+  },
+  "14435888418975@lid": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n🎯 ¿Qué puedes hacer?\n• Juegos y diversión 🎮\n• Comandos útiles 🛠️\n• Interacción con otros 👥\n• Y varias sorpresas más ✨\n\n💡 Consejo rápido:\nEscribe #menu y explora todo lo que tengo para ti\n\n🔥 Tip:\nMientras más uses los comandos,\nmás cosas irás descubriendo 👀\n\n✨ Relájate, explora y disfruta\neste pequeño rincón digital\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\nSoy Nexus ⚡ y espero haberte ayudado\no al menos haberte hecho pasar\nun buen rato 😄\n\n🎯 Antes de irte:\n• Guarda tus comandos favoritos ⭐\n• Invita a otros a usar el bot 👥\n• Y vuelve cuando quieras 🔄\n\n💡 Recuerda:\nSiempre habrá algo nuevo por descubrir\ncada vez que regreses 👀\n\n🔥 Dato:\nEl bot sigue activo… incluso cuando tú no estás 😏\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3
+  },
+  "161095700459600@lid": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n🎯 ¿Qué puedes hacer?\n• Juegos y diversión 🎮\n• Comandos útiles 🛠️\n• Interacción con otros 👥\n• Y varias sorpresas más ✨\n\n💡 Consejo rápido:\nEscribe #menu y explora todo lo que tengo para ti\n\n🔥 Tip:\nMientras más uses los comandos,\nmás cosas irás descubriendo 👀\n\n✨ Relájate, explora y disfruta\neste pequeño rincón digital\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\nSoy Nexus ⚡ y espero haberte ayudado\no al menos haberte hecho pasar\nun buen rato 😄\n\n🎯 Antes de irte:\n• Guarda tus comandos favoritos ⭐\n• Invita a otros a usar el bot 👥\n• Y vuelve cuando quieras 🔄\n\n💡 Recuerda:\nSiempre habrá algo nuevo por descubrir\ncada vez que regreses 👀\n\n🔥 Dato:\nEl bot sigue activo… incluso cuando tú no estás 😏\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3
+  },
+  "88425357127786@lid": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n🎯 ¿Qué puedes hacer?\n• Juegos y diversión 🎮\n• Comandos útiles 🛠️\n• Interacción con otros 👥\n• Y varias sorpresas más ✨\n\n💡 Consejo rápido:\nEscribe #menu y explora todo lo que tengo para ti\n\n🔥 Tip:\nMientras más uses los comandos,\nmás cosas irás descubriendo 👀\n\n✨ Relájate, explora y disfruta\neste pequeño rincón digital\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\nSoy Nexus ⚡ y espero haberte ayudado\no al menos haberte hecho pasar\nun buen rato 😄\n\n🎯 Antes de irte:\n• Guarda tus comandos favoritos ⭐\n• Invita a otros a usar el bot 👥\n• Y vuelve cuando quieras 🔄\n\n💡 Recuerda:\nSiempre habrá algo nuevo por descubrir\ncada vez que regreses 👀\n\n🔥 Dato:\nEl bot sigue activo… incluso cuando tú no estás 😏\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3
+  },
+  "107361817653361@lid": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n💡 Escribe #menu y explora todo lo que tengo para ti\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3,
+    "eventosHabilitados": true
+  },
+  "120363425472435075@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n💡 Escribe #menu y explora todo lo que tengo para ti\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3,
+    "eventosHabilitados": true,
+    "chatHabilitado": true
+  },
+  "120363427661856982@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n💡 Escribe #menu y explora todo lo que tengo para ti\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3,
+    "eventosHabilitados": true,
+    "chatHabilitado": true,
+    "economyOn": false,
+    "gachaOn": false
+  },
+  "232513054179432@lid": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n💡 Escribe #menu y explora todo lo que tengo para ti\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3,
+    "eventosHabilitados": true
+  },
+  "120363411494621773@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n💡 Escribe #menu y explora todo lo que tengo para ti\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3,
+    "eventosHabilitados": true,
+    "chatHabilitado": true,
+    "encuesta": {
+      "pregunta": "¿Mejor personaje?",
+      "opciones": [
+        "Naruto",
+        "Goku",
+        "Luffy*"
+      ],
+      "votos": {
+        "256379868680306@lid": 1
+      },
+      "autor": "256379868680306@lid",
+      "fecha": 1779897081170
+    },
+    "botActivo": true
+  },
+  "573223638305@s.whatsapp.net": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n💡 Escribe #menu y explora todo lo que tengo para ti\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3,
+    "eventosHabilitados": true
+  },
+  "47460110102538@lid": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n💡 Escribe #menu y explora todo lo que tengo para ti\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3,
+    "eventosHabilitados": true
+  },
+  "147975011618912@lid": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n💡 Escribe #menu y explora todo lo que tengo para ti\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3,
+    "eventosHabilitados": true
+  },
+  "260271159419044@lid": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n💡 Escribe #menu y explora todo lo que tengo para ti\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3,
+    "eventosHabilitados": true
+  },
+  "157239037972615@lid": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n💡 Escribe #menu y explora todo lo que tengo para ti\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3,
+    "eventosHabilitados": true
+  },
+  "120363321221684551@newsletter": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n💡 Escribe #menu y explora todo lo que tengo para ti\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3,
+    "eventosHabilitados": true
+  }
+}

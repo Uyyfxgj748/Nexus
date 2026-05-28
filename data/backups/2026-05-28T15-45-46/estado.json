@@ -1,0 +1,6 @@
+{
+  "activo": true,
+  "mantenimiento": false,
+  "msgMantenimiento": "⚙️ El bot está en proceso de corrección de errores y optimización.\n\nPor el momento, algunos comandos pueden no funcionar correctamente o estar deshabilitados temporalmente.\n\n🛠️ Estamos trabajando para mejorar la estabilidad y el rendimiento del sistema.\n\n💡 Gracias por tu paciencia y comprensión.\n\n✦ Equipo Nexus ✦",
+  "eventosActivos": false
+}

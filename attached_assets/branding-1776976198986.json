@@ -1,0 +1,122 @@
+{
+  "colorScheme": "light",
+  "fonts": [
+    {
+      "family": "Uncut Sans",
+      "role": "body"
+    },
+    {
+      "family": "Fraunces",
+      "role": "heading"
+    }
+  ],
+  "colors": {
+    "primary": "#D0FAE5",
+    "secondary": "#1E2939",
+    "accent": "#FEE685",
+    "background": "#F6FEFA",
+    "textPrimary": "#032E15",
+    "link": "#032E15"
+  },
+  "typography": {
+    "fontFamilies": {
+      "primary": "Uncut Sans",
+      "heading": "Fraunces"
+    },
+    "fontStacks": {
+      "heading": [
+        "Uncut Sans",
+        "ui-sans-serif",
+        "sans-serif"
+      ],
+      "body": [
+        "Uncut Sans",
+        "ui-sans-serif",
+        "sans-serif"
+      ],
+      "paragraph": [
+        "Uncut Sans",
+        "ui-sans-serif",
+        "sans-serif"
+      ]
+    },
+    "fontSizes": {
+      "h1": "16px",
+      "h2": "30px",
+      "body": "16px"
+    }
+  },
+  "spacing": {
+    "baseUnit": 8,
+    "borderRadius": "0px"
+  },
+  "components": {
+    "buttonPrimary": {
+      "background": "#FEE685",
+      "textColor": "#7B3306",
+      "borderRadius": "33554400px",
+      "borderRadiusCorners": {
+        "topLeft": "33554400px",
+        "topRight": "33554400px",
+        "bottomRight": "33554400px",
+        "bottomLeft": "33554400px"
+      },
+      "shadow": "none"
+    },
+    "buttonSecondary": {
+      "background": "#DDD6FF",
+      "textColor": "#4D179A",
+      "borderRadius": "33554400px",
+      "borderRadiusCorners": {
+        "topLeft": "33554400px",
+        "topRight": "33554400px",
+        "bottomRight": "33554400px",
+        "bottomLeft": "33554400px"
+      },
+      "shadow": "none"
+    }
+  },
+  "images": {
+    "logo": null,
+    "favicon": "https://enter.pollinations.ai/favicon.ico?v=dark",
+    "ogImage": "https://enter.pollinations.ai/og-image.png"
+  },
+  "__llm_button_reasoning": {
+    "primary": {
+      "index": 13,
+      "text": "Sign in with Github",
+      "reasoning": "The 'Sign in with Github' button has a vibrant orange background (#FEE685), which stands out as the primary call-to-action due to its bright color and action-oriented text."
+    },
+    "secondary": {
+      "index": 14,
+      "text": "🐙 View on GitHub",
+      "reasoning": "The 'View on GitHub' button has a different background color (#DDD6FF) and serves as a secondary action, providing additional functionality without overshadowing the primary CTA."
+    },
+    "confidence": 0.95
+  },
+  "personality": {
+    "tone": "modern",
+    "energy": "medium",
+    "targetAudience": "developers"
+  },
+  "designSystem": {
+    "framework": "tailwind",
+    "componentLibrary": ""
+  },
+  "confidence": {
+    "buttons": 0.95,
+    "colors": 0.9,
+    "overall": 0.925
+  },
+  "__llm_metadata": {
+    "logoSelection": {
+      "llmCalled": false,
+      "llmSucceeded": false,
+      "finalSource": "none"
+    },
+    "buttonClassification": {
+      "llmCalled": true,
+      "llmSucceeded": true
+    }
+  }
+}

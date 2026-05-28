@@ -1,0 +1,15 @@
+.spotify.com	TRUE	/	TRUE	1811431496	sp_t	be8aba1f-a848-46b7-a5a7-2cf21fa44df0
+.spotify.com	TRUE	/	TRUE	1779981665	sp_new	1
+.spotify.com	TRUE	/	TRUE	1779981665	sp_landing	https%3A%2F%2Fopen.spotify.com%2Fintl-es
+.spotify.com	TRUE	/	TRUE	1779981665	sp_landingref	https%3A%2F%2Fwww.google.com%2F
+.spotify.com	TRUE	/	FALSE	1811431320	OptanonAlertBoxClosed	2026-05-27T15:22:00.872Z
+.spotify.com	TRUE	/	TRUE	1811431422	sp_dc	AQBMzy7wkz6hsqkCa0os88GPlYs2GgzCZZafhpTSbOYXUm34lE-Wh36IjoimT6NzGwKgARIoQtf0LUMPM9_sRWFr5GRk3glkjmLlXhJwn_fYNQJdr_n3yEEzp0DUMysCoWWNqvC42zNX-wP_C9xgKO7QvffNYvu5HRhwbFCd3AoFexABtjmd2mMuqELC0n9h145dXw20DW_DCpmc-BU
+.spotify.com	TRUE	/	TRUE	1811431422	sp_key	633a6b21-f488-421a-b9fc-40626e16fe21
+.spotify.com	TRUE	/	TRUE	1785079422	sp_gaid	0088fccb9e1fed9a91039d283fbb39febe4723d669cf6666f73a6b
+.spotify.com	TRUE	/	TRUE	1779897234	_cs_mk_ga	0.9000973514517414_1779895434789
+.spotify.com	TRUE	/	FALSE	1779981900	_gid	GA1.2.902365626.1779895450
+.spotify.com	TRUE	/	FALSE	1779895510	_gat_UA-5784146-31	1
+.spotify.com	TRUE	/	FALSE	1814455459	_ga_BMC5VGR8YS	GS2.2.s1779895450$o1$g1$t1779895459$j51$l0$h0
+.spotify.com	TRUE	/	FALSE	1811431500	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+27+2026+10%3A25%3A00+GMT-0500+(hora+est%C3%A1ndar+de+Colombia)&version=202601.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=s00%3A1%2Cf00%3A1%2Cm00%3A1%2Ct00%3A1%2Ci00%3A1%2Cf11%3A1%2Cm02%3A1%2Ct02%3A1%2Cm03%3A1%2CID01%3A1&geolocation=CO%3BDC&AwaitingReconsent=false
+.spotify.com	TRUE	/	FALSE	1814455501	_ga_ZWG1NSHWD8	GS2.1.s1779895435$o1$g1$t1779895500$j60$l0$h0
+.spotify.com	TRUE	/	FALSE	1814455501	_ga	GA1.1.1743213224.1779895436

@@ -1,0 +1,22 @@
+{
+  "name": "nexus-bot",
+  "version": "1.0.0",
+  "description": "Bot de WhatsApp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "@whiskeysockets/baileys": "^7.0.0-rc.9",
+    "adm-zip": "^0.5.17",
+    "axios": "^1.16.0",
+    "fluent-ffmpeg": "^2.1.3",
+    "fs-extra": "^11.3.5",
+    "pino": "^8.21.0",
+    "sharp": "^0.32.6",
+    "wa-sticker-formatter": "^4.4.4",
+    "yt-search": "^0.0.2",
+    "ytdl-core": "^4.11.5"
+  }
+}
